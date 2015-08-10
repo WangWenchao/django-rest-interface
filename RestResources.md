@@ -1,0 +1,8 @@
+  * [REST Wiki](http://rest.blueoxen.net/cgi-bin/wiki.pl?FrontPage), [RESTfulDesign](http://rest.blueoxen.net/cgi-bin/wiki.pl?RESTfulDesign)
+  * [I finally get REST. Wow.](http://www.tbray.org/ongoing/When/200x/2007/04/30/REST-is-easy)
+  * [Three reasons that REST is not RPC](http://pluralsight.com/blogs/tewald/archive/2007/04/26/46984.aspx)
+  * [REST Tips: Prefer following links over URI construction](http://bitworking.org/news/141/REST-Tips-Prefer-following-links-over-URI-construction)
+  * [Freely available Atom publishing clients](http://intertwingly.net/wiki/pie/Implementations)
+  * [REST Issues, Real and Imagined](http://www.mnot.net/blog/2007/02/27/rest_issues)
+  * [Paul's REST Resources](http://www.prescod.net/rest/)
+  * [RESTify DayTrader](http://bitworking.org/news/201/RESTify-DayTrader)
